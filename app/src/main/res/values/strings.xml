@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EA</string>
+
+    <string name="title_activity_layout_based_activtiy">LayoutBasedActivtiy</string>
+    <string name="title_activity_scroll_based_activtiy">ScrollingActivity</string>
+
+    <string name="layout_based">Layout Based</string>
+    <string name="scroll_based">Scroll Based</string>
+    <string name="msg_clicked">Hi! I am Clicked and my position is changed.</string>
+    <string name="internet_rrror">Check network connectivity!</string>
+    <string name="lot">Lot#</string>
+    <string name="bids">Bids</string>
+    <string name="time_left">Time Left</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="grid">Grid View</string>
+    <string name="cars_machinery"><![CDATA[Cars & Machinery]]></string>
+    <string name="scroll_down">Scroll down to search</string>
+</resources>
