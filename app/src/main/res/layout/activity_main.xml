@@ -79,6 +79,7 @@
                 android:background="@color/grey50" />
 
             <LinearLayout
+                android:foreground="?attr/selectableItemBackgroundBorderless"
                 android:id="@+id/sort"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
